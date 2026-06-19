@@ -4,7 +4,7 @@ Sistema de visión artificial con YOLOv8 para la auditoría automática de Equip
 
 ## Base de Datos Utilizada (Obligatorio)
 * **Nombre del Dataset:** PPE Detection
-* **Enlace de acceso:** [Acceder al Dataset en Roboflow](https://app.roboflow.com/danna-marcela-balta-espinel/ppe-detection-vpw6m-gz52b/train)
+* **Enlace de acceso:** [(https://app.roboflow.com/danna-marcela-balta-espinel/ppe-detection-vpw6m-gz52b/train)]
 * **Descripción:** El dataset está compuesto por imágenes de entornos industriales, anotadas con cajas delimitadoras. Contiene las clases necesarias para detectar personal operativo y validar el uso de: cascos, chalecos y botas.
 
 ## Despliegue en Hugging Face Spaces
